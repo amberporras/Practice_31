@@ -5,4 +5,5 @@ public class Hat {
 
     // again
     // again twice
+    // three commits
 }
